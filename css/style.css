@@ -8212,7 +8212,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #0028ff;
+    /*background: #0028ff;*/
+    background: #ff0000;
     z-index: -1;
     opacity: .6; }
   @media (min-width: 992px) {
